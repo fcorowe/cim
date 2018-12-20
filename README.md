@@ -1,2 +1,2 @@
-# cim
+# CIM
 compositional impact of migration

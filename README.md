@@ -1,4 +1,4 @@
-# Compositional Impact of Migration (CMI)
+# Compositional Impact of Migration (CIM)
 
 ## Overview
 

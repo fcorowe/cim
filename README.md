@@ -60,11 +60,11 @@ Compute and print the CIM outputs
 
 Interpreting the results from the table above:
 
-Factual Value (FV) indicates the sex ratio at the end of the time interval (i.e. 2013).
+*Factual Value* (FV) indicates the sex ratio at the end of the time interval (i.e. 2013).
 
-Counterfactual Value (CFV) indicates the sex ratio at the start of the time interval (i.e. 2008). Alternatively, it can be interpreted as the counterfactual sex ratio; that is, what would have been the sex ratio if no migration had occurred.
+*Counterfactual Value* (CFV) indicates the sex ratio at the start of the time interval (i.e. 2008). Alternatively, it can be interpreted as the counterfactual sex ratio; that is, what would have been the sex ratio if no migration had occurred.
 
-Compositional Impact of Migration (CIM) is the difference between the FV and CFV and indicates the change in the area-specific sex ratio because of migration. The results indicate that internal migration contribute to increase the sex ratio of the Greater Santiago by 0.4.
+*Compositional Impact of Migration* (CIM) is the difference between the FV and CFV and indicates the change in the area-specific sex ratio because of migration. The results indicate that internal migration contribute to increase the sex ratio of the Greater Santiago by 0.4.
 
 CIM_PC is the CIM divided by the CFV and indicates the percentage change of the CMI i.e. the percentage change in the sex ratio. The results indicate that internal migration contributed to increase the sex ratio of the Greater Santiago by 0.46% between 2008 and 2013.
 

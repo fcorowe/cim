@@ -91,7 +91,7 @@ Compute and print the CIM outputs
 #CIM.duncan <- CIM(pop65over, pop1_14, pop15_29, pop30_44, pop45_64, calculation = "duncan", numerator = 1, DuncanAll= TRUE)
 #CIM.duncan$duncan_index
 ```
-The CIM for the Duncan index of dissimilarity indicates that internal migration has contributed to increase age segregation of the population aged 65 and over in the Greater London Metropolitan Area by 2.81% between 2010 and 2011 i.e. from 16.2% in 2010 to 19% in 2011.
+The *CIM* for the Duncan index of dissimilarity indicates that internal migration has contributed to increase age segregation of the population aged 65 and over in the Greater London Metropolitan Area by 2.81% between 2010 and 2011 i.e. from 16.2% in 2010 to 19% in 2011.
 
 To visualise where the population aged 65 and over in the Greater London Metropolitan Area is concentrating, we can map differences in the spatial distribution of this population across local authority districts.
 

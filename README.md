@@ -2,7 +2,7 @@
 
 ## Overview
 
-This R package produces summary statistical indicators of the impact of migration on the socio-demographic composition of an area. Three measures can be used: ratios, percentages and the Duncan index of dissimilarity. The input data files are assumed to be in an origin-destination matrix format, with each cell representing a flow count between an origin and a destination area. Columns are expected to represent origins, and rows are expected to represent destinations. The first row and column are assumed to contain labels for each area. See Rodríguez-Vignoli and Rowe (2018) for technical details.
+This R package produces summary statistical indicators of the impact of migration on the socio-demographic composition of an area. Three measures can be used: ratios, percentages and the Duncan index of dissimilarity. The input data files are assumed to be in an origin-destination matrix format, with each cell representing a flow count between an origin and a destination area. Columns are expected to represent origins, and rows are expected to represent destinations. The first row and column are assumed to contain labels for each area. See [Rodríguez-Vignoli and Rowe (2018)](https://doi.org/10.1080/00324728.2017.1416155) for technical details.
 
 
 ## Getting Started

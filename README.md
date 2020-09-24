@@ -1,5 +1,11 @@
 # Compositional Impact of Migration (CIM)
 
+[Francisco Rowe](http://www.franciscorowe.com) [[`@fcorowe`](http://twitter.com/fcorowe)]<sup>1*</sup>, Nikos Patias [[`@pat_nikos`](https://twitter.com/pat_nikos)]<sup>1</sup>, Jorge Rodriguez<sup>2</sup>
+
+<sup>1</sup> *Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom*
+
+<sup>1</sup> *CEPAL, United Nations, Santiago, Chile*
+
 ## Overview
 
 This R package produces summary statistical indicators of the impact of migration on the socio-demographic composition of an area. Three measures can be used: ratios, percentages and the Duncan index of dissimilarity. The input data files are assumed to be in an origin-destination matrix format, with each cell representing a flow count between an origin and a destination area. Columns are expected to represent origins, and rows are expected to represent destinations. The first row and column are assumed to contain labels for each area. See [Rodríguez-Vignoli and Rowe (2018)](https://doi.org/10.1080/00324728.2017.1416155) for technical details.

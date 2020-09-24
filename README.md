@@ -4,7 +4,7 @@
 
 <sup>1</sup> *Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom*
 
-<sup>1</sup> *CEPAL, United Nations, Santiago, Chile*
+<sup>1</sup> *Latin American Demographic Centre (CELADE), United Nations Economic Commission for Latin America and the Caribbean, Santiago, Chile*
 
 ## Overview
 

@@ -167,7 +167,7 @@ Or, even better we can create an interactive map! by setting an interactive map 
 
 How to cite if you use the package:
 
-[Rowe, F., Patias, N., Rodríguez-Vignoli, J. (2018). CIM: Compositional Impact of Migration. R package version 1.0.0.](https://github.com/fcorowe/cim)
+[Rowe, F., Patias, N., Rodríguez-Vignoli, J. (2018). CIM: Compositional Impact of Migration. R package version 1.0.0.](https://zenodo.org/badge/latestdoi/162118396)
 
 If you use the method:
 

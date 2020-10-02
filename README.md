@@ -1,5 +1,7 @@
 # Compositional Impact of Migration (CIM)
 
+[![DOI](https://zenodo.org/badge/162118396.svg)](https://zenodo.org/badge/latestdoi/162118396)
+
 [Francisco Rowe](http://www.franciscorowe.com) [[`@fcorowe`](http://twitter.com/fcorowe)]<sup>1*</sup>, Nikos Patias [[`@pat_nikos`](https://twitter.com/pat_nikos)]<sup>1</sup>, Jorge Rodriguez<sup>2</sup>
 
 <sup>1</sup> *Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom*

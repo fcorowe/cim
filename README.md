@@ -1,6 +1,6 @@
 # Compositional Impact of Migration (CIM)
 
-[![DOI](https://zenodo.org/badge/162118396.svg)](https://zenodo.org/badge/latestdoi/162118396) [![](http://cranlogs.r-pkg.org/badges/last-month/tidyverse?color=green)](https://cran.r-project.org/package=tidyverse)
+[![DOI](https://zenodo.org/badge/162118396.svg)](https://zenodo.org/badge/latestdoi/162118396) [![](http://cranlogs.r-pkg.org/badges/last-month/CIM?color=green)](https://cran.r-project.org/package=CIM)
 
 [Francisco Rowe](http://www.franciscorowe.com) [[`@fcorowe`](http://twitter.com/fcorowe)]<sup>1*</sup>, Nikos Patias [[`@pat_nikos`](https://twitter.com/pat_nikos)]<sup>1</sup>, Jorge Rodriguez<sup>2</sup>
 

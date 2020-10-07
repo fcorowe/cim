@@ -1,6 +1,12 @@
 # Compositional Impact of Migration (CIM)
 
-[![DOI](https://zenodo.org/badge/162118396.svg)](https://zenodo.org/badge/latestdoi/162118396) [![](http://cranlogs.r-pkg.org/badges/grand-total/CIM?color=green)](https://cran.r-project.org/package=CIM)
+[![DOI](https://zenodo.org/badge/162118396.svg)](https://zenodo.org/badge/latestdoi/162118396) 
+[![](http://cranlogs.r-pkg.org/badges/grand-total/CIM?color=green)](https://cran.r-project.org/package=CIM) 
+[![](http://cranlogs.r-pkg.org/badges/last-month/CIM?color=green)](https://cran.r-project.org/package=CIM) 
+[![](http://cranlogs.r-pkg.org/badges/last-month/CIM?color=green)](https://cran.r-project.org/package=CIM)
+[![CRAN checks](https://cranchecks.info/badges/summary/CIM)](https://cran.r-project.org/web/checks/check_results_CIM.html)
+[![](https://img.shields.io/github/last-commit/fcorowe/CIM.svg)](https://github.com/fcorowe/CIM/commits/master)
+[![](https://img.shields.io/badge/Altmetric-15-green.svg)](https://www.altmetric.com/details/32435474)
 
 [Francisco Rowe](http://www.franciscorowe.com) [[`@fcorowe`](http://twitter.com/fcorowe)]<sup>1*</sup>, Nikos Patias [[`@pat_nikos`](https://twitter.com/pat_nikos)]<sup>1</sup>, Jorge Rodriguez<sup>2</sup>
 

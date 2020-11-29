@@ -29,7 +29,7 @@ This package has no pre-requisites.
 
 ### Installing
 
-To install **{CIM}** from [CRAN](www..com), type:
+To install **{CIM}** from [CRAN](www.com), type:
 ```{r}
 #install.packages("CIM")
 ```

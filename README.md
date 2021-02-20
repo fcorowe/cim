@@ -178,7 +178,6 @@ If you use the method:
 
 [Rodríguez-Vignoli, J. and Rowe, F., 2018. How is internal migration reshaping metropolitan populations in Latin America? A new method and new evidence. Population studies, 72(2), pp.253-273.](doi.org/10.1080/00324728.2017.1416155)
 
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details

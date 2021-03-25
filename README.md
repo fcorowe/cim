@@ -174,7 +174,7 @@ How to cite if you use the package:
 
 [Rowe, F., Patias, N., Rodríguez-Vignoli, J. (2018). CIM: Compositional Impact of Migration. R package version 1.0.0.](https://zenodo.org/badge/latestdoi/162118396)
 
-If you use the method: 
+If you use the method, we would also appreciate if you cite: 
 
 [Rodríguez-Vignoli, J. and Rowe, F., 2018. How is internal migration reshaping metropolitan populations in Latin America? A new method and new evidence. Population studies, 72(2), pp.253-273.](doi.org/10.1080/00324728.2017.1416155)
 

@@ -20,7 +20,7 @@ This R package produces summary statistical indicators of the impact of migratio
 
 ## Getting Started
 
-These instructions will get you the *CMI* package running on your local machine and provide an example on how to interpret the various output indicators.
+These instructions will show you how to get the *CMI* package running on your local machine and provide an example on how to interpret the various output indicators.
 
 ### Prerequisites
 
